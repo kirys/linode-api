@@ -4,13 +4,12 @@
     <groupId>com.notedpath.linode</groupId>
     <artifactId>linode-api</artifactId>
     <name>linode-api</name>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.2-SNAPSHOT</version>
     <description>Linode API</description>
     <developers>
         <developer>
-            <name>Theodore Nguyen-Cao</name>
-            <email>theo.nguyencao@gmail.com</email>
-            <url>http://www.theodorenguyen-cao.com</url>
+            <name>Federico Improta (kirys)</name>
+            <url>http://kirys.it</url>
             <organization>A Noted Path</organization>
         </developer>
     </developers>
