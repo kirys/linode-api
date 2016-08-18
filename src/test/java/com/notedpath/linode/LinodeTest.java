@@ -8,6 +8,7 @@ import junit.framework.TestCase;
 public class LinodeTest extends TestCase {
 	private Linode linode;
 
+        @Override
 	public void setUp() throws Exception {
 
 		// Set your API key!!!
